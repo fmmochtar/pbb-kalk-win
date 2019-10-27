@@ -2,7 +2,7 @@
 
 **A simple PBB (Pajak Bumi dan Bangunan) calculator written in C#.**
 
-This program is one of my first C# project intended as final project for Basics of Computer Programming practices.
+This program is one of my first C# project intended as final project for Basics of Computer Programming lab practices.
 
 ##### What it does
 
